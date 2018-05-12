@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37308'
     url: http://www.gutenberg.org/2009/agents/37308
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34895#History-of-the-Second-Massachusetts-Regiment-of-Infantry--A-prisoner-s-diaryA-paper-read-at-t_
 gutenberg_issued: '2011-01-09'
 gutenberg_type: Text
 identifiers:
